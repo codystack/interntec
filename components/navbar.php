@@ -19,14 +19,13 @@
                     <li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
 						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="demosMenu" >
+							<span class="dropdown-header">Fintech Products</span>
 							<div class="d-block d-sm-flex">
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li class="dropdown-header">Fintech Products</li>
-									<li> <a class="dropdown-item" href="#">OneBank</a> </li>
+									<li> <a class="dropdown-item" href="#">Cohort Learn</a> </li>
 								</ul>
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li class="dropdown-header mt-3 mt-sm-0">SASS Products</li>
-									<li> <a class="dropdown-item" href="#">Webify</a> </li>
+									<li> <a class="dropdown-item" href="#">OneBank</a> </li>
 								</ul>
 							</div>
 							<!-- Nav action box -->
