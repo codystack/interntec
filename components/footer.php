@@ -4,7 +4,7 @@
 		<!-- NewsLetter -->
 		<div class="row pb-5 justify-content-center">
 			<div class="col-md-7">
-				<h3 class="text-white text-center">Subscribe to our newsletter or <a href="#" class="text-primary">follow @foliotheme</a> on Instagram for latest update</h3>
+				<h3 class="text-white text-center">Subscribe to our newsletter or <a href="#" class="text-primary">follow @interntec</a> on Instagram for latest update</h3>
 				<form class="p-0 px-xl-8 my-4">
 					<div class="input-group">
 						<input class="form-control border-0 h-auto" type="email" placeholder="Your email address">
@@ -19,8 +19,7 @@
 		<div class="row pb-4 pt-6">
 			<!-- Footer widget item -->
 			<div class="col-md-4 mb-4">
-				<h5 class="mb-4 text-white">About Interntec</h5>
-				<p>Folio is a highly creative, modern, visually stunning and Bootstrap 5 Creative Multi-purpose corporate and portfolio HTML5 template.</p>
+				<img src="assets/images/logo_light.svg" width="200px" class="mb-5" alt="">
 				<!-- Social icons -->
 				<ul class="list-unstyled list-group-inline display-9">
 					<li> <a class="text-facebook me-2" href="#"><i class="fab fa-facebook-square"></i></a> </li>
