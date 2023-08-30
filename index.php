@@ -12,7 +12,7 @@
 		<section class="position-relative bg-dark p-0">
 			<!-- Email link left -->
 			<div class="position-absolute bottom-0 start-0 m-6 z-index-9 d-none d-xxl-block">
-				<a href="#" class="text-white lead">support@folio.com</a>
+				<a href="#" class="text-white lead">hello@intertec.com</a>
 			</div>
 			<!-- Social sites link right -->
 			<div class="position-absolute bottom-0 end-0 m-6 z-index-9 d-none d-xxl-block">
