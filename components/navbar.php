@@ -1,6 +1,5 @@
 <header class="navbar-light navbar-sticky">
 
-	<!-- Logo Nav START -->
 	<nav class="navbar navbar-expand-lg">
 		<div class="container align-items-stretch">
 			
@@ -22,7 +21,7 @@
 							<span class="dropdown-header">Fintech Products</span>
 							<div class="d-block d-sm-flex">
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li> <a class="dropdown-item" href="#">Cohort Learn</a> </li>
+									<li> <a class="dropdown-item" href="https://www.cohortlearn.com" targert="_blank">Cohort Learn</a> </li>
 								</ul>
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
 									<li> <a class="dropdown-item" href="#">OneBank</a> </li>
@@ -33,7 +32,7 @@
 								<div class="text-center bg-primary-multiply position-relative overflow-hidden px-3 py-5 w-100">
 									<h4 class="mb-0 text-white">Get free quote today!</h4>
 									<p class=" text-white">For quick response and more details, Feel free to contact us</p>
-									<a class="btn btn-white btn-sm" target="_blank" href="landing/index.html">Contact Us</a>
+									<a class="btn btn-white btn-sm" href="contact">Contact Us</a>
 									<img class="bg-primary-multiply position-absolute top-50 start-50 translate-middle z-index-n9 w-100" src="assets/images/bg/03.jpg" alt="">
 								</div>
 							</div>
@@ -68,9 +67,7 @@
                     </li>
 				</ul>
 			</div>
-			<!-- Main Menu END -->
-
-			<!-- Nav right START -->
+			
 			<div class="nav flex-nowrap align-items-center bg-primary-end position-relative ps-4 ms-4">
 				<!-- Call -->
 				<div class="nav-item d-none d-lg-flex">
@@ -87,7 +84,7 @@
 				</div>
 				<!-- Nav Button -->
 				<div class="nav-item d-none d-xl-block">
-					<a class="btn btn-line btn-dark btn-sm mb-0" href="#">Get a Quote</a>
+					<a class="btn btn-line btn-dark btn-sm mb-0" href="get-quote">Get a Quote</a>
 				</div>
 				<!-- Nav side Opener -->
 				<div class="nav-item">
@@ -96,8 +93,6 @@
 					</a>
 				</div>
 			</div>
-			<!-- Nav right END -->
 		</div>
 	</nav>
-	<!-- Logo Nav END -->
 </header>
