@@ -1,6 +1,8 @@
 <?php
-include "./components/header.php";
-include "./components/navbar.php";
+    include "./components/header.php";
+    include "./components/offcanvas.php";
+    include "./components/search.php";
+    include "./components/navbar.php";
 ?>
 
 <main>

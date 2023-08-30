@@ -6,8 +6,7 @@
 ?>
 
     <main>
-        <!-- =======================
-        Inner intro START -->
+        
         <section class="bg-dark pattern-overlay-3 bg-dark-overlay-4">
             <div class="container">
                 <div class="row g-0 d-flex justify-content-center">
@@ -68,11 +67,7 @@
                 </div><!-- Row END -->
             </div>
         </section>
-        <!-- =======================
-        Inner intro END -->
-
-        <!-- =======================
-        About START -->
+        
         <section>
             <div class="container">
                 <div class="row justify-content-lg-between">
@@ -116,11 +111,7 @@
                 </div> <!-- Row END -->
             </div>
         </section>
-        <!-- =======================
-        About END -->
-
-        <!-- =======================
-        Skill START -->
+        
         <section class="p-0 bg-parallax position-relative rounded bg-dark-overlay-2 mx-xl-3 mx-xxxl-9" style="background:url(assets/images/bg/04.jpg) no-repeat center center; background-size:cover;">
             <div class="container">
                 <div class="row d-flex justify-content-lg-between">
@@ -167,12 +158,7 @@
                 </div> <!-- Row END -->
             </div>
         </section>
-        <!-- =======================
-        Skill END -->
-
-
-        <!-- =======================
-        About us START -->
+        
         <section>
             <div class="container">
                 <div class="row justify-content-between align-items-center">
@@ -268,8 +254,7 @@
                 </div>
             </div>
         </section>
-        <!-- =======================
-        About us END -->
+        
     </main>
 
 <?php include "./components/footer.php"; ?>
